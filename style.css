@@ -1,0 +1,12 @@
+.blue-bg{
+    background-color: #386795;
+}
+.carousel-item{
+    padding: 50px 40px;
+}
+.container{
+    margin-top: 50px;
+}
+.card-img-top{
+    box-shadow: none;
+}
